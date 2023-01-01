@@ -5,7 +5,7 @@ class App {
     fun mypri(){
         println(id )
     }
-
+// тест
 }
 
 fun main(){
