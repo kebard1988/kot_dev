@@ -14,5 +14,6 @@ fun main(){
     val mydan = App()
     mydan.mypri()
     mydan.mypri()
+    mydan.mypri()
 
 }
